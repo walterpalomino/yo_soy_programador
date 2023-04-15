@@ -26,8 +26,8 @@ body{
     position: fixed;
     z-index: 999;
     border-radius: 50%;
-    bottom: 115px;
-    right: 115px;
+    bottom: 99px;
+    right: 73px;
     padding: 10px;
     transition: ease 0.3s;
     animation: efecto 1.2s infinite;
